@@ -6,11 +6,11 @@ column 1 - activity
 column 2 - subject
 column 3-81 - Measurements
 
-## Output Identifiers:
+### Output Identifiers:
 1) activity - The activity of the datapoint on which the experiment was conducted.
 2) subject - The ID provided for each datapoint.
 
-##Variable names:
+### Variable names:
 1. activity
 2. subject
 3. tBodyAcc_mean_X
@@ -22,7 +22,7 @@ column 3-81 - Measurements
 9. tGravityAcc_mean_X
 10. tGravityAcc_mean_Y
 11. tGravityAcc_mean_Z
-12.tGravityAcc_std_X
+12. tGravityAcc_std_X
 13. tGravityAcc_std_Y
 14. tGravityAcc_std_Z
 15. tBodyAccJerk_mean_X
@@ -95,7 +95,7 @@ column 3-81 - Measurements
 
 variable 3-81 describes the mean and standard deviation variables.
 
-## Activty Labels:
+### Activty Labels:
 
 1 WALKING
 2 WALKING_UPSTAIRS
