@@ -2,7 +2,7 @@
 
 This Repository was created for completing the week4 assignment of "getting and cleaning data" course
 
-Steps to run  the script:
+##Steps to run  the script:
 
 1. Clone the repository.
 2. Set repo root directory as R working directory.
@@ -14,7 +14,7 @@ Steps to run  the script:
    
 Above steps will generate a tidy data set.
 
-# Script run_analysis.R description:
+## Script run_analysis.R description:
 
 1. Script requires dplyr package. If it is not there, it should be installed using below command
    install.packages("dplyr")
